@@ -1,5 +1,7 @@
 ## Guilherme Xavier Martins.
 
+- Estudante de Análise e Desenvolvimento de Sistemas.
+- Apaixonado por programação.
  <div>
   <a href="https://github.com/guixavier77">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guixavier77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=blue"/>
