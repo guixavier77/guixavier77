@@ -1,7 +1,5 @@
 ## Guilherme Xavier Martins.
 
-Estudante de Análise e desenvolvimento de sistemas pelo IFNMG - Campus Araçuaí. 
-Sempre em busca de aprendizado e de novos desafios, sou um entusiasta da tecnologia onde busco me aperfeiçoar como Desenvolvedor Front-end. 
  <div>
   <a href="https://github.com/guixavier77">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guixavier77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=blue"/>
