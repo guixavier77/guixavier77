@@ -1,10 +1,8 @@
 ## 👤 Guilherme Xavier Martins
 
-## Desenvolvedor FullStack
-
 ## 🚀 Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
